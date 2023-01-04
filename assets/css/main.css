@@ -205,7 +205,7 @@ input, select, textarea {
 		letter-spacing: 0.5rem;
 		-webkit-text-fill-color: transparent; 
 		-webkit-text-stroke: 1px #ffffff;
-		background: url('/images/back.png');
+		background: url('images/back.png');
 		-webkit-background-clip: text;
 		background-position: 0 0;
 		animation: back 20s linear infinite;
